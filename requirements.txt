@@ -1,0 +1,7 @@
+fastmcp
+uvicorn
+pydantic
+openai
+readabilipy
+markdownify
+httpx
